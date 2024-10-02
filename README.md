@@ -8,6 +8,8 @@
 
 In today's competitive market, retaining customers is crucial for business success. This **Customer Churn Prediction** application utilizes machine learning techniques to predict the likelihood of customer churn based on various features such as demographics and account details. By leveraging predictive analytics, businesses can proactively address customer issues and improve retention strategies.
 
+# Link the the webapp: https://customer-churn-prediction-e2e-pcndty64rv4wswihgc6qnc.streamlit.app/
+
 ## 🚀 Features
 
 - **Interactive Web Application**: Built using Streamlit for an intuitive user experience.
